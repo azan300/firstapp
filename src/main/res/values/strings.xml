@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">firstapp</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="red_button">Red Button</string>
+    <string name="green_button">Green Button</string>
+    <string name="blue_button">Blue Button</string>
+    <string name="image_view_description">Image Description</string>
+</resources>
